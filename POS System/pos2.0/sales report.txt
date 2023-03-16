@@ -1,0 +1,8 @@
+Pen 2
+Pencil 1
+Notebook 1
+Eraser 1
+Tape 3
+Ruler 1
+Highlighter 1
+Stapler 2

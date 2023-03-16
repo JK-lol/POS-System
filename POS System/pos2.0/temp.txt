@@ -1,0 +1,8 @@
+Pen 0
+Pencil 0
+Notebook 0
+Eraser 0
+Tape 1
+Ruler 0
+Highlighter 0
+Stapler 0

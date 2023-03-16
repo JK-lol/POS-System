@@ -1,0 +1,8 @@
+Pen 28
+Pencil 8
+Notebook 29
+Eraser 46
+Tape 22
+Ruler 36
+Highlighter 49
+Stapler 39
